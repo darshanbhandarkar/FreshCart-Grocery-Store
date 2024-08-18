@@ -14,7 +14,7 @@ header {
 
 nav {
     background-color: #333;
-    overflow: hidden;
+
 }
 
 nav ul {
@@ -172,13 +172,14 @@ align-items: center;
     margin: 15px 0;
     border-left: 5px solid #56c271; 
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease, background-color 0.3s ease; 
+    transition: 0.3s ease; 
 }
 
 .offer:hover {
     background-color: #eaf7ea; 
     transform: scale(1.05); 
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); 
+    cursor: pointer;
 }
 
 .offer h3 {
