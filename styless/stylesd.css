@@ -7,11 +7,12 @@ body {
 }
 
 header {
-    background-color: #1e90ff; /* Dodger Blue */
+    background-color: #1e90ff; 
     color: white;
-    padding: 15px;
+    padding: 20px;
     text-align: center;
     font-family: cursive;
+    font-size: large;
 }
 
 nav {
@@ -78,7 +79,7 @@ nav ul li a:hover {
     margin: 10px 0;
 }
 .dairy-item img{
-    height: 270px;   
+    height: 290px;   
 }
 
 .dairy-item p {
