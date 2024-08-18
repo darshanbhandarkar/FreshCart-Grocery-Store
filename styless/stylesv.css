@@ -89,6 +89,7 @@ nav ul li a:hover {
 .vegetable-item:hover {
     transform: scale(1.05); 
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); 
+    cursor: pointer;
 }
 #mmm {
     height: 130px;
