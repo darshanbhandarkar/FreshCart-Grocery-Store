@@ -4,6 +4,7 @@ body {
     padding: 0;
     background-color: #f0f0f0;
     color: #333;
+    justify-content: center;
 }
 
 header {
@@ -88,6 +89,7 @@ nav ul li a:hover {
     text-align: center;
     padding: 100px 20px;
     background-position: center;
+    display: block;
 }
 
 #hero h2 {
