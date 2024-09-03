@@ -237,3 +237,60 @@ footer {
     width: 100%;
 }
 
+@media (max-width: 768px) {
+    .header-container {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .header-text h1 {
+        font-size: 28px;
+    }
+    
+    .header-text p {
+        font-size: 14px;
+    }
+    
+    
+    .header-h1 img {width: 50px;}
+
+    nav ul li {
+        margin: 5px 0;
+    }
+    
+    #hero h2 {
+        font-size: 24px;
+    }
+    
+    #hero p {
+        font-size: 16px;
+    }
+    
+    .product {
+        width: 45%;
+        margin: 10px 2.5%;
+    }
+}
+
+@media (max-width: 480px) {
+    .product {
+        width: 100%;
+        margin: 10px 0;
+    }
+    
+    .header-text h1 {
+        font-size: 24px;
+    }
+    
+    #hero h2 {
+        font-size: 20px;
+    }
+    
+    #hero p {
+        font-size: 14px;
+    }
+    
+    .header-h1 img {
+        width: 35px;
+    }
+}
