@@ -62,10 +62,6 @@ nav ul li a:hover {
     transition: width 0.3s ease;
 }
 
-.search-box input[type="text"]:focus {
-    width: 200px; /* Expands on focus */
-}
-
 .search-box button {
     background-color: #e67e22; 
     border: none;
