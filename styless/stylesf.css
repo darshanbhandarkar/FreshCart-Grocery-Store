@@ -119,7 +119,7 @@ footer {
 /* Responsive Design */
 @media screen and (min-width: 600px) and (max-width: 768px) {
     .fruit-item {
-        width: 45%;
+        width: 20%;
     }
 
 }
@@ -127,7 +127,7 @@ footer {
 
 @media screen and (min-width: 769px) and (max-width: 992px) {
     .fruit-item {
-        width: 90%;
+        width: 60%;
     }
 
     section {

@@ -119,14 +119,14 @@ footer {
 /* Responsive Design */
 @media screen and (min-width: 600px) and (max-width: 768px) {
     .vegetable-item {
-        width: 45%;
+        width: 20%;
     }
 }
 
 
 @media screen and (min-width: 769px) and (max-width: 992px) {
     .vegetable-item {
-        width: 90%;
+        width: 60%;
     }
 
     section {
