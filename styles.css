@@ -10,7 +10,7 @@ body {
 
 header {
     background-color: #56c271;
-    padding: 10px;
+    padding: 0px;
     text-align: center;
 }
 
@@ -169,7 +169,10 @@ footer {
     bottom: 0;
     width: 100%;
 }
+.anc {
+text-decoration: none;
 
+}
 /* Responsive Design */
 
 /* For (Tablets and mobile phones) */
